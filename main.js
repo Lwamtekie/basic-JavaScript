@@ -26,4 +26,23 @@
 
 var firstName = 'John';
 var age = 28;
+
+// type coercion
 console.log(firstName + '' + age);
+
+//two varibles in the same line
+var job, isMarried;
+job = 'teacher';
+sMarried = false;
+
+console.log(firstName + ' is a' + age + 'year old '+ job +'. Is he married? ' + isMarried);
+
+// variable mutation 
+
+age = 'twenty eight';
+job = 'driver'
+alert(firstName + ' is a' + age + 'year old '+ job +'. Is he married? ' + isMarried);
+
+
+var lastName =prompt('what is his last Name?');
+console.log(firstName + '' + lastName);
