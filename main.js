@@ -46,3 +46,8 @@ alert(firstName + ' is a' + age + 'year old '+ job +'. Is he married? ' + isMarr
 
 var lastName =prompt('what is his last Name?');
 console.log(firstName + '' + lastName);
+
+//**************************
+// Basic operations 
+
+var yearJohn = 2018 - 28;
